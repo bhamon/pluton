@@ -1,0 +1,19 @@
+{
+  "name": "pluton",
+  "version": "0.1.0",
+  "description": "HTTP/2 server",
+  "main": "lib/index.js",
+  "scripts": {
+    "dev": "node . | pino-pretty"
+  },
+  "author": "Benjamin HAMON <benjamin@hamon.sh>",
+  "license": "MIT",
+  "dependencies": {
+    "find-my-way": "^1.18.1",
+    "hyperid": "^2.0.2",
+    "pino": "^5.11.1"
+  },
+  "devDependencies": {
+    "pino-pretty": "^2.5.0"
+  }
+}
