@@ -1,6 +1,6 @@
 {
   "name": "pluton",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "HTTP/2 server",
   "main": "lib/index.js",
   "author": "Benjamin HAMON <benjamin@hamon.sh>",
