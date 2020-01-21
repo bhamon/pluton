@@ -6,8 +6,8 @@
   "author": "Benjamin HAMON <benjamin@hamon.sh>",
   "license": "MIT",
   "dependencies": {
-    "find-my-way": "^2.1.0",
-    "hyperid": "^2.0.2",
-    "pino": "^5.12.6"
+    "find-my-way": "^2.2.1",
+    "hyperid": "^2.0.3",
+    "pino": "^5.16.0"
   }
 }
